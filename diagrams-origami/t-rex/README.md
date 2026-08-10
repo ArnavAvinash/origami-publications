@@ -1,5 +1,6 @@
 # T-Rex (55 Steps)
-## Developed by Arnav Avinash
+####
+Developed by: Arnav Avinash
 ####
 Design: 04/2025
 ####
@@ -12,10 +13,10 @@ I now prioritize designs which seem achievable through diagrams and are easy to 
 This structure arose from an idea to graft over a bird base, using larger flaps for the hind legs.
 The complexity is rated at 75% citing step 52.
 
-# Thank you!
+# Acknowledgements
 #### 
-@kei-morisue   
+[@kei-morisue](https://github.com/kei-morisue) and Fukuroi Kazuki (Japanese translation and diagramming guidance)
 #### 
-@tancoda  
-#### 
-Fukuroi Kazuki  
+[@tancoda](https://github.com/tancoda) (guidance on dinosaur species and feasibility)
+
+ 
